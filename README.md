@@ -1,3 +1,9 @@
+<img width="1366" height="768" alt="Screenshot 2026-08-29 045825" src="https://github.com/user-attachments/assets/e3e5b2ca-27de-4454-b7ba-a71fa684c88f" />
+<img width="1366" height="768" alt="Screenshot 2026-08-29 050141" src="https://github.com/user-attachments/assets/ab5a8077-1d53-43d2-9f6e-ae3d11d835e7" />
+<img width="629" height="496" alt="Screenshot_29-8-2026_5224_localhost" src="https://github.com/user-attachments/assets/aa6a42b2-3cef-448b-adf0-f715248dedca" />
+<img width="1366" height="768" alt="Screenshot 2026-08-29 050405" src="https://github.com/user-attachments/assets/37864350-52e5-412b-af29-c66a0bba4fa9" />
+<img width="1366" height="768" alt="Screenshot 2026-08-29 050431" src="https://github.com/user-attachments/assets/781a6521-6bd6-4626-a5cb-37806de78225" />
+<img width="1366" height="768" alt="Screenshot 2026-08-29 050509" src="https://github.com/user-attachments/assets/30187442-8fa3-4eba-a4a4-78bdf93996e8" />
  BenchFix
 BenchPulse is a real-time bench management dashboard that optimizes developer allocations, tracks bench costs, and generates client-ready proposal PDFs.
 
