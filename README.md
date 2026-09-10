@@ -9,7 +9,7 @@ BenchPulse is a real-time bench management dashboard that optimizes developer al
 
 BenchFix — Real-Time Bench Intelligence & Resource Allocation Dashboard
 
-BenchFix is a data-driven resource management dashboard built specifically for software houses and IT consulting agencies. It helps HR managers, Resource Managers, and Project Leads track unassigned bench talent, monitor hourly financial burn costs, match candidate skills with project requirements, and generate client-ready proposal PDFs in one click.
+BenchFix is a data-driven resource management dashboard built specifically for software houses and IT consulting agencies. It helps HR managers, Resource Managers, and Project Leads track unassigned bench talent, monitor hourly financial burn costs, match candidate skills with project requirements, and generate client-ready proposal PDF in one click.
 
 Key Capabilities
 
